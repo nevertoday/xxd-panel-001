@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 001"
+  short_description: "Create naive retro hand-drawn editorial art."
+  default_prompt: "Use $xxd-panel-001 to turn my photo into source-bound retro hand-drawn editorial artwork, asking first for modes and copy or language preferences."
