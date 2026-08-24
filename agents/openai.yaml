@@ -1,4 +1,4 @@
 interface:
   display_name: "/xxd-panel-001"
-  short_description: "Create naive retro hand-drawn editorial art."
-  default_prompt: "Use $xxd-panel-001 to turn my photo into source-bound retro hand-drawn editorial artwork, asking first for modes and copy or language preferences."
+  short_description: "Create Panel 001 from its original style brief."
+  default_prompt: "Use $xxd-panel-001; treat its bundled original style brief as the sole aesthetic authority, and ask only for unresolved mode, size, text mode, locale, or wallpaper settings."
