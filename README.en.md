@@ -43,7 +43,18 @@ The result does not trace the photograph's surface. It finds one intelligent, pl
 
 These samples demonstrate the 001 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 001 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Translate a photograph into light, naïve, paper-breathing retro editorial illustration |
+| **Recognizable signature** | NAÏVE LINE · RETRO PAPER · MIXED MEDIA · WITTY METAPHOR · WARM SPACE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 “Hand-drawn style” easily collapses into generic cute cartooning: perfectly smooth outlines, an interchangeable palette, or a digital noise filter pretending to be paper and pigment.
 
@@ -55,7 +66,7 @@ lock source facts → find one source-specific visual metaphor → simplify with
 
 If an unrelated photograph could replace the source without materially changing the subject, metaphor, gesture, palette, or copy, the result is not 001.
 
-## The 001 visual contract
+## What makes the finished style recognizable
 
 - **Recognisable simplified subject:** retain at least three source-specific identity cues. Proportions may be gently exaggerated, but people, objects, and relationships cannot become generic symbols.
 - **Source-specific transformation:** derive one intelligent, natural visual metaphor from an action, structure, setting, or mood instead of applying a fixed visual trick.
