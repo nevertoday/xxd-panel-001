@@ -22,6 +22,27 @@ XXD Panel 001 is an image-generation Skill for Codex and compatible agents. It p
 
 The result does not trace the photograph's surface. It finds one intelligent, playful, source-bound transformation and combines modernist editorial drawing, Bauhaus order, picture-book warmth, and the ease of a fashion sketch. Type feels like a restrained note left by the illustrator, not an advertising headline pasted on later.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089702197365985649) · 2026-08-18<br>
+> GPT2 x 转绘 x 上下 x 美学提示词<br>
+> The original post has no VOL label; the author confirmed in this conversation that these samples belong to XXD Panel 001.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 001 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 001 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 001 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 001 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 001 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 “Hand-drawn style” easily collapses into generic cute cartooning: perfectly smooth outlines, an interchangeable palette, or a digital noise filter pretending to be paper and pigment.
@@ -43,27 +64,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Source-derived limited palette:** use high-value, low-to-medium saturation colour grounded in the photograph, with only one small complementary accent.
 - **Warm paper and print imperfection:** show fibre, rough edges, slight show-through, and gentle misregistration as material evidence rather than uniform digital noise.
 - **Restrained retro lettering:** keep copy short, slightly uneven, and ink-absorbed; compose it with the lines and colour fields.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089702197365985649) · 2026-08-18<br>
-> GPT2 x 转绘 x 上下 x 美学提示词<br>
-> The original post has no VOL label; the author confirmed in this conversation that these samples belong to XXD Panel 001.
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 001 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 001 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 001 sample 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 001 sample 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 001 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

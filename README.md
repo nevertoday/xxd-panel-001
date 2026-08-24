@@ -22,6 +22,27 @@ XXD Panel 001 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 画面不复制照片表面，而是从源图事实中找到一个聪明、轻巧、可回看的视觉转化。它融合现代主义编辑插画、包豪斯秩序、绘本温度和时装速写的松弛感；文字像画者顺手留下的克制手写注记，而不是后来贴上去的广告标题。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089702197365985649) · 2026-08-18<br>
+> GPT2 x 转绘 x 上下 x 美学提示词<br>
+> 原推文未标注 VOL；作者在本次对话确认该样张归属 XXD Panel 001。
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 001 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 001 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 001 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 001 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 001 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 001
 
 普通“手绘风”很容易退化成通用可爱卡通：轮廓过于圆滑、色盘与任何照片都能互换，或用数字滤镜假装纸张和笔触。
@@ -43,27 +64,6 @@ XXD Panel 001 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **源图推导的限色：** 使用高明度、低至中饱和的有限色盘，以照片色彩为依据，只加入一个小面积互补强调色。
 - **暖纸与不完美印刷：** 保留纸纤维、粗糙边缘、轻微透色和套印偏移；这些应像真实材料，而不是均匀噪点滤镜。
 - **克制复古手写：** 标题短而自然，字形略不齐、带纸面吸墨感，并与线条和色块共同构图。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089702197365985649) · 2026-08-18<br>
-> GPT2 x 转绘 x 上下 x 美学提示词<br>
-> 原推文未标注 VOL；作者在本次对话确认该样张归属 XXD Panel 001。
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 001 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 001 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 001 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 001 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 001 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 
