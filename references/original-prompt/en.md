@@ -1,0 +1,13 @@
+# XXD Panel 001 original prompt · English translation
+
+> Faithful reading translation. The [Simplified Chinese original](zh-CN.md) remains the sole runtime authority.
+
+Please make every photo I upload into its own standalone high-end design poster; no multi-image collages, each photo output separately. The overall composition uses a 3:4 vertical format, with the upper and lower zones strictly 1:1 in height, each taking up 50% of the frame.
+
+The upper half keeps the original photo, preserving the subject's structure, real texture, natural light and shadow, and original color atmosphere, applying only a slight high-end photographic color grade so that it carries the feel of magazine photography and art exhibitions. To fit the frame, the sky, ground, or surrounding background may be extended naturally, but the subject must not be stretched, distorted, or altered.
+
+The lower half extracts the most recognizable subject, outline, pose, and narrative relationships from the photo and reconstructs them into a light, naive, retro hand-drawn editorial illustration. Do not trace details mechanically; re-express them through summarized forms, slightly exaggerated proportions, symbolized features, and humorous visual metaphors, while keeping the original recognizable at a glance. The style blends modernist editorial illustration, Bauhaus composition, children's picture books, and the spirit of fashion sketching, with concise forms and fine lines that carry slight handmade error — relaxed, clever, playful, yet restrained.
+
+The colors are extracted from the photo above, using a limited palette of high brightness and low to medium saturation, with large areas of off-white or pale negative space, and a small amount of complementary color as visual accent points. Use a mixed texture of watercolor, gouache, colored pencil, pastel crayon, and dry brush, keeping paper grain, rough edges, show-through white, overprint misregistration, and imperfect strokes, and avoid smooth vectors, photorealistic light and shadow, 3D rendering, and plastic texture.
+
+The overall composition is balanced, light, and full of breathing room, and may include a small number of hand-drawn lines, geometric symbols, or abstract elements. Text may make sparing use of retro handwritten titles, numbers, or years, blending naturally into the illustration. Overall, reference old fashion picture books, travel illustration, art publications, and high-end editorial design, presenting a gentle, retro, relaxed, stylish, humorous temperament with a touch of clumsiness and quirky confidence, avoiding a cartoonish feel, a cheap feel, an e-commerce feel, and template
