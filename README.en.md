@@ -16,17 +16,7 @@
 
 </div>
 
-> NAÏVE LINE · RETRO PAPER · MIXED MEDIA · WITTY METAPHOR · WARM SPACE
-
-XXD Panel 001 is an image-generation Skill for Codex and compatible agents. It preserves recognisable subjects, gestures, and relationships, then translates them into light retro editorial illustration: slightly fallible fine lines, watercolour and gouache shapes, coloured pencil, pastel or crayon, all resting on warm fibrous paper.
-
-The result does not trace the photograph's surface. It finds one intelligent, playful, source-bound transformation and combines modernist editorial drawing, Bauhaus order, picture-book warmth, and the ease of a fashion sketch. Type feels like a restrained note left by the illustrator, not an advertising headline pasted on later.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089702197365985649) · 2026-08-18<br>
-> GPT2 x 转绘 x 上下 x 美学提示词<br>
-> The original post has no VOL label; the author confirmed in this conversation that these samples belong to XXD Panel 001.
 
 <table>
   <tr>
@@ -39,9 +29,19 @@ The result does not trace the photograph's surface. It finds one intelligent, pl
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089702197365985649) · 2026-08-18<br>
+> GPT2 x 转绘 x 上下 x 美学提示词<br>
+> The original post has no VOL label; the author confirmed in this conversation that these samples belong to XXD Panel 001.
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 001 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> NAÏVE LINE · RETRO PAPER · MIXED MEDIA · WITTY METAPHOR · WARM SPACE
+
+XXD Panel 001 is an image-generation Skill for Codex and compatible agents. It preserves recognisable subjects, gestures, and relationships, then translates them into light retro editorial illustration: slightly fallible fine lines, watercolour and gouache shapes, coloured pencil, pastel or crayon, all resting on warm fibrous paper.
+
+The result does not trace the photograph's surface. It finds one intelligent, playful, source-bound transformation and combines modernist editorial drawing, Bauhaus order, picture-book warmth, and the ease of a fashion sketch. Type feels like a restrained note left by the illustrator, not an advertising headline pasted on later.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 001 right for you?
