@@ -50,16 +50,16 @@ Check the samples below if you want to feel out the aesthetic. If you are ready,
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 001 sample 4"></a></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 001 Sample 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 001 Sample 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 001 Sample 6"></td>
   </tr>
   <tr>
-    <td width="33%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 001 Sample 6"></td>
-    <td width="33%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 001 Sample 7"></td>
-    <td width="33%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 001 Sample 8"></td>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 001 Sample 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 001 Sample 8"></td>
   </tr>
 </table>
 
-> New sample: one photo was randomly selected from the Chenxiang poster group and rendered with this Panel's original brief as a 16:9 left-right composition with original-brief-generated English copy.
+> New sample: the four photos from the corresponding Chenxiang poster group were used in filename order and rendered with this Panel's original brief as a 16:9 left-right composition with original-brief-generated English copy.
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089702197365985649) · 2026-08-18<br>
 > GPT2 x 转绘 x 上下 x 美学提示词<br>
