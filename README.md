@@ -64,6 +64,21 @@
   </tr>
 </table>
 
+## 新增 3:4 上下双联样张
+
+以下四张复用上方 16:9 样张对应的四张独立素材，重新生成完整 3:4 上下双联画布；上部保留现实摄影，下部遵循 001 原始提示词重构。英文配字只从当前照片的内容、情绪或隐喻中生成，并已逐张复核。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 001 新增上下样张 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 001 新增上下样张 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 001 新增上下样张 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 001 新增上下样张 4"></td>
+  </tr>
+</table>
+
 > 本次新增样张：从对应陈翔海报分组按文件名顺序使用四张照片，使用本 Panel 原始提示词生成 16:9 左右双联，并由模型按原始文字逻辑生成英文文案。
 
 > [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089702197365985649) · 2026-08-18<br>
