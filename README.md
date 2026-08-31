@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 001
+# 🦁 XXD Panel 001｜复古稚趣志
 
 ### 把照片转译成轻盈、稚拙、带着纸张呼吸感的复古手绘编辑插画
 

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 001
+# 🦁 XXD Panel 001｜Retro Whimsy Journal
 
 ### Translate a photograph into light, naïve, paper-breathing retro editorial illustration
 
