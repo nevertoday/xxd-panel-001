@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="XXD Panel 001 项目横幅" width="1200">
-</p>
-
 <div align="center">
 
 # 🦁 XXD Panel 001｜复古稚趣志
@@ -323,7 +319,6 @@ xxd-panel-001/
 ├── README.md / README.en.md / README.ja.md / README.ko.md / README.ar.md
 ├── agents/openai.yaml
 ├── assets/
-│   ├── banner.svg
 │   └── examples/（未来本地样张占位）
 ├── scripts/
 │   ├── compose_panel.py
