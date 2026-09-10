@@ -87,6 +87,15 @@ You do not need to review every option first. Send your Agent an image and say:
 The samples above can help you confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [Open the unified translation directory](references/original-prompt/): [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -103,28 +112,6 @@ The Simplified Chinese file preserves Xiaoxiaodong's wording verbatim and remain
 | **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
 | **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
 <!-- xxd-panel-benefit:end -->
-
-## How it turns your source into a distinctive result
-
-“Hand-drawn style” easily collapses into generic cute cartooning: perfectly smooth outlines, an interchangeable palette, or a digital noise filter pretending to be paper and pigment.
-
-001 reverses that logic:
-
-```text
-lock source facts → find one source-specific visual metaphor → simplify with relaxed imperfect line → layer watercolour, gouache, pencil, and pastel → preserve warm-paper breathing room → add restrained retro lettering
-```
-
-If an unrelated photograph could replace the source without materially changing the subject, metaphor, gesture, palette, or copy, the result is not 001.
-
-## What makes the finished style recognizable
-
-- **Recognisable simplified subject:** retain at least three source-specific identity cues. Proportions may be gently exaggerated, but people, objects, and relationships cannot become generic symbols.
-- **Source-specific transformation:** derive one intelligent, natural visual metaphor from an action, structure, setting, or mood instead of applying a fixed visual trick.
-- **Humanly imperfect fine line:** keep contours thin, relaxed, slightly wavering, broken, and breathable—never smooth vector outlines.
-- **Light mixed-media depth:** combine transparent watercolour blooms, matte gouache, coloured-pencil hatching, pastel or crayon grain, and dry brush without becoming heavy.
-- **Source-derived limited palette:** use high-value, low-to-medium saturation colour grounded in the photograph, with only one small complementary accent.
-- **Warm paper and print imperfection:** show fibre, rough edges, slight show-through, and gentle misregistration as material evidence rather than uniform digital noise.
-- **Restrained retro lettering:** keep copy short, slightly uneven, and ink-absorbed; compose it with the lines and colour fields.
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
