@@ -23,6 +23,8 @@
 
 ## 16:9 Left–Right Samples
 
+Four independent sources on complete 16:9 canvases: reality left, this Panel's design right, exact 50:50. English copy is generated from each photograph.
+
 <table>
   <tr>
     <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 001 Sample 5"></td>
@@ -36,7 +38,7 @@
 
 ## 3:4 Top–Bottom Samples
 
-These four works reuse the same four independent sources as the 16:9 set above, now regenerated as complete 3:4 top–bottom canvases. The original photograph remains above; the lower design follows Panel 001's original brief. English copy is generated only from each photograph's content, mood, or implication, and every result was individually reviewed.
+Four further independent sources, different from the 16:9 set, regenerated as complete 3:4 top–bottom canvases. The original photograph remains above; the lower design follows this Panel's original brief.
 
 <table>
   <tr>
@@ -48,24 +50,6 @@ These four works reuse the same four independent sources as the 16:9 set above, 
     <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 001 additional top-bottom sample 4"></td>
   </tr>
 </table>
-
-> New sample: the four photos from the corresponding Chenxiang poster group were used in filename order and rendered with this Panel's original brief as a 16:9 left-right composition with original-brief-generated English copy.
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089702197365985649) · 2026-08-18<br>
-> GPT2 x 转绘 x 上下 x 美学提示词<br>
-> The original post has no VOL label; the author confirmed in this conversation that these samples belong to XXD Panel 001.
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 001 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
-
-> NAÏVE LINE · RETRO PAPER · MIXED MEDIA · WITTY METAPHOR · WARM SPACE
-
-XXD Panel 001 is an image-generation Skill for Codex and compatible agents. It preserves recognisable subjects, gestures, and relationships, then translates them into light retro editorial illustration: slightly fallible fine lines, watercolour and gouache shapes, coloured pencil, pastel or crayon, all resting on warm fibrous paper.
-
-The result does not trace the photograph's surface. It finds one intelligent, playful, source-bound transformation and combines modernist editorial drawing, Bauhaus order, picture-book warmth, and the ease of a fashion sketch. Type feels like a restrained note left by the illustrator, not an advertising headline pasted on later.
-
-<!-- xxd-human-intro:start -->
 ## Where this Panel fits — and what it solves
 
 When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.

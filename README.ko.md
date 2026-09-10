@@ -23,49 +23,33 @@
 
 ## 16:9 좌우 구성 예시
 
+서로 다른 원본 네 장으로 만든 16:9 완성 캔버스. 왼쪽은 실사, 오른쪽은 이 Panel 디자인, 정확히 50:50.
+
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 001 예시 5"></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 001 예시 6"></td>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 001 Sample 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 001 Sample 6"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 001 예시 7"></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 001 예시 8"></td>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 001 Sample 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 001 Sample 8"></td>
   </tr>
 </table>
 
 ## 3:4 상하 구성 예시
 
-위 16:9 예시와 같은 네 개의 독립 소스를 완전한 3:4 상하 캔버스로 다시 생성했습니다. 위쪽은 현실 사진을 유지하고 아래쪽은 Panel 001의 원본 프롬프트에 따라 재구성합니다. 영어 문구는 각 사진의 내용·분위기·함의에서만 생성했으며 모든 결과를 개별 검수했습니다.
+16:9 세트와 다른 원본 네 장으로 만든 3:4 상하 완성 캔버스. 위는 실사, 아래는 디자인, 정확히 50:50.
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 001 추가 상하 예시 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 001 추가 상하 예시 2"></td>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 001 additional top-bottom sample 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 001 additional top-bottom sample 2"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 001 추가 상하 예시 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 001 추가 상하 예시 4"></td>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 001 additional top-bottom sample 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 001 additional top-bottom sample 4"></td>
   </tr>
 </table>
-
-> 추가 예시: 천샹 포스터 그룹에서 해당 천샹 포스터 그룹의 네 장을 파일명 순서로 사용하고, 이 Panel의 원본 브리프에 따라 16:9 좌우 구성과 영어 자동 생성 문구로 제작했습니다.
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089702197365985649) · 2026-08-18<br>
-> GPT2 x 转绘 x 上下 x 美学提示词<br>
-> 원문 게시물에는 VOL 표기가 없지만, 작성자가 이번 대화에서 XXD Panel 001 예시임을 확인했습니다.
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089702197365985649">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 001의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
-
-> 소박한 선 · 레트로 종이결 · 혼합 매체 · 재치 있는 은유 · 따뜻한 여백
-
-XXD Panel 001은 Codex와 호환 에이전트를 위한 이미지 생성 Skill입니다. 사진 속 인물과 사물, 동작과 관계를 알아볼 수 있게 남긴 뒤, 조금 흔들리는 가는 선과 수채·과슈·색연필·파스텔 또는 크레용이 따뜻한 섬유질 종이에 놓인 가벼운 레트로 편집 일러스트로 번역합니다.
-
-사진의 표면을 그대로 베끼지 않고 원본의 사실에 묶인 영리하고 가벼운 시각적 전환 하나를 찾습니다. 모더니즘 편집 일러스트, 바우하우스의 질서, 그림책의 온기, 패션 스케치의 여유가 함께하며, 글자는 나중에 붙인 광고 제목이 아니라 그린 사람이 남긴 절제된 메모처럼 작동합니다.
-
-<!-- xxd-human-intro:start -->
 ## 적합한 상황과 해결하는 문제
 
 사진을 포스터, 표지, 소셜 콘텐츠 또는 배경화면으로 사용할 때 핵심 과제는 단순히 화풍을 바꾸는 것이 아닙니다. 다시 디자인한 뒤에도 대상의 정체성, 중요한 관계, 분위기와 식별성을 유지해야 합니다.
