@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 001｜Retro Whimsy Journal: redraws the most recognisable subject of a photo as a light, slightly clumsy, witty retro hand-drawn editorial illustration — simplified shapes with gently exaggerated proportions, thin wobbly lines, mixed watercolour, gouache, coloured pencil and pastel on grainy paper, a soft palette taken from the photo, generous cream whitespace and an optional retro handwritten title, number or year. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-001 or asks for retro hand-drawn, naive, paper-textured editorial illustration from a photo.",
+  "short_description": "复古稚趣志：把照片画成轻盈、带纸感、有点笨拙幽默的复古手绘插画",
+  "zh-CN": {
+    "name": "复古稚趣志",
+    "tagline": "把一张照片画成轻盈、带纸感、有点笨拙幽默的复古手绘插画。",
+    "look": "照片里最好认的主体会被重新画一遍：造型概括、比例略夸张，线条纤细带一点手抖，用水彩、彩铅、粉蜡笔混着上色，留着纸张颗粒和套印错位。颜色从照片里取，整体偏浅、偏柔，大片米白留白，只用一两处互补色点睛。可以配一行复古手写标题、编号或年份。",
+    "traits": ["稚拙细线", "复古纸感", "混合媒材", "暖色留白", "轻巧隐喻"],
+    "good": [
+      "主体清楚、一眼能认出来的照片：一个人、一只猫、一辆自行车、一杯咖啡",
+      "带一点动作或关系的瞬间：遛狗、骑车、两个人对视、窗边看书",
+      "想做成杂志插画、文章配图、头像或贺卡的日常照片"
+    ],
+    "poor": [
+      "需要精确还原细节的图：产品图、证件照、建筑测绘",
+      "人很多、主体很小的大场景，画出来会只剩一团",
+      "想要写实、3D 或光滑商业插画效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Retro Whimsy Journal",
+    "tagline": "Turns a photo into a light, paper-textured, slightly clumsy and witty retro hand-drawn illustration.",
+    "look": "The most recognisable subject in your photo is redrawn: simplified shapes, gently exaggerated proportions and thin lines with a slight hand wobble, coloured in mixed watercolour, coloured pencil and pastel with visible paper grain and off-register printing. Colours come from the photo and stay pale and soft, with large areas of cream whitespace and only one or two complementary accents. A retro handwritten title, number or year can be added.",
+    "traits": ["Naive thin lines", "Vintage paper", "Mixed media", "Warm whitespace", "Light visual wit"],
+    "good": [
+      "Photos with a clear, instantly recognisable subject: a person, a cat, a bicycle, a cup of coffee",
+      "Moments with a little action or relationship: walking a dog, cycling, two people facing each other, reading by a window",
+      "Everyday photos you want as a magazine illustration, article image, avatar or greeting card"
+    ],
+    "poor": [
+      "Images that need exact detail: product shots, ID photos, architectural surveys",
+      "Crowded wide scenes with tiny subjects, which end up as a blur",
+      "Requests for a realistic, 3D or glossy commercial illustration look"
+    ]
+  },
+  "ja": {
+    "name": "レトロ無邪気手帳",
+    "tagline": "写真を、軽やかで紙の質感があり、少し不器用でユーモラスなレトロ手描きイラストにします。",
+    "look": "写真でいちばん目立つ主役を描き直します。形は簡略化して比率は少し誇張し、線は細く手の揺れが残ります。水彩、色鉛筆、パステルを混ぜて塗り、紙の粒子や版ずれも残します。色は写真から取り、全体に淡く柔らかく、生成りの余白を大きくとって補色を一、二か所だけ効かせます。レトロな手書きのタイトル、番号、年号を添えることもできます。",
+    "traits": ["素朴な細線", "レトロな紙", "ミクストメディア", "温かい余白", "軽やかな比喩"],
+    "good": [
+      "主役がはっきりしていて一目でわかる写真：人物、猫、自転車、一杯のコーヒー",
+      "少し動きや関係がある瞬間：犬の散歩、自転車、見つめ合う二人、窓辺の読書",
+      "雑誌のイラスト、記事の挿絵、アイコン、グリーティングカードにしたい日常写真"
+    ],
+    "poor": [
+      "細部を正確に再現したい画像：商品写真、証明写真、建築の実測図",
+      "人が多く主役が小さい広い場面（ひとかたまりになってしまいます）",
+      "写実的、3D、つるっとした商業イラストの仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "레트로 천진 수첩",
+    "tagline": "사진을 가볍고 종이 질감이 살아 있으며 조금 서툴고 유머러스한 레트로 손그림 일러스트로 바꿉니다.",
+    "look": "사진에서 가장 알아보기 쉬운 주인공을 다시 그립니다. 형태는 단순하게, 비율은 살짝 과장하고, 선은 가늘게 손떨림을 남깁니다. 수채, 색연필, 파스텔을 섞어 칠하고 종이 결과 인쇄 어긋남도 남깁니다. 색은 사진에서 가져와 전체적으로 연하고 부드럽게, 크림색 여백을 넓게 두고 보색 포인트는 한두 군데만 씁니다. 레트로 손글씨 제목이나 번호, 연도를 곁들일 수 있습니다.",
+    "traits": ["서툰 가는 선", "레트로 종이", "혼합 재료", "따뜻한 여백", "가벼운 은유"],
+    "good": [
+      "주인공이 분명해 한눈에 알아볼 수 있는 사진: 사람, 고양이, 자전거, 커피 한 잔",
+      "작은 동작이나 관계가 있는 순간: 강아지 산책, 자전거 타기, 마주 보는 두 사람, 창가 독서",
+      "잡지 일러스트, 글 삽화, 프로필 사진, 카드로 쓰고 싶은 일상 사진"
+    ],
+    "poor": [
+      "세부를 정확히 살려야 하는 이미지: 제품 사진, 증명사진, 건축 실측",
+      "사람이 많고 주인공이 작은 넓은 장면(한 덩어리로 뭉개집니다)",
+      "사실적이거나 3D, 매끈한 상업 일러스트 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر الطرافة الرجعية",
+    "tagline": "يحوّل الصورة إلى رسم يدوي رجعي خفيف بملمس الورق، فيه شيء من البساطة الخرقاء والطرافة.",
+    "look": "يُعاد رسم أوضح عنصر في صورتك: أشكال مبسّطة ونِسب مبالغ فيها قليلاً وخطوط رفيعة فيها ارتعاش اليد، بألوان مائية وأقلام ملوّنة وباستيل ممزوجة، مع حبيبات الورق وانزياح الطباعة. تُؤخذ الألوان من الصورة وتبقى فاتحة وناعمة، مع مساحات واسعة بلون الكريم ولمسة أو لمستين من لون مكمّل. يمكن إضافة عنوان أو رقم أو سنة بخط يد رجعي.",
+    "traits": ["خطوط رفيعة عفوية", "ورق قديم", "وسائط مختلطة", "فراغ دافئ", "استعارة خفيفة"],
+    "good": [
+      "صور فيها عنصر واضح يُعرف من النظرة الأولى: شخص، قطة، دراجة، فنجان قهوة",
+      "لحظات فيها حركة أو علاقة بسيطة: تنزيه كلب، ركوب دراجة، شخصان متقابلان، قراءة قرب نافذة",
+      "صور يومية تريدها رسماً لمجلة أو لمقال أو صورة شخصية أو بطاقة تهنئة"
+    ],
+    "poor": [
+      "صور تحتاج إلى تفاصيل دقيقة: صور المنتجات، صور الهوية، المسوحات المعمارية",
+      "مشاهد واسعة مزدحمة بعناصر صغيرة، تتحول إلى كتلة غير واضحة",
+      "طلب مظهر واقعي أو ثلاثي الأبعاد أو رسم تجاري لامع"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-001
-description: "Create XXD Panel 001 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-001 or requests the exact Panel 001 style."
+description: "XXD Panel 001｜Retro Whimsy Journal: redraws the most recognisable subject of a photo as a light, slightly clumsy, witty retro hand-drawn editorial illustration — simplified shapes with gently exaggerated proportions, thin wobbly lines, mixed watercolour, gouache, coloured pencil and pastel on grainy paper, a soft palette taken from the photo, generous cream whitespace and an optional retro handwritten title, number or year. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-001 or asks for retro hand-drawn, naive, paper-textured editorial illustration from a photo."
 ---
 
 # XXD Panel 001
